@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\bin\Debug\net6.0\08.BirthdayCake.exe
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\bin\Debug\net6.0\08.BirthdayCake.deps.json
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\bin\Debug\net6.0\08.BirthdayCake.runtimeconfig.json
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\bin\Debug\net6.0\08.BirthdayCake.dll
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\bin\Debug\net6.0\08.BirthdayCake.pdb
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.dll
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\refint\08.BirthdayCake.dll
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.pdb
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\08.BirthdayCake.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01.Numbers\08.BirthdayCake\obj\Debug\net6.0\ref\08.BirthdayCake.dll
