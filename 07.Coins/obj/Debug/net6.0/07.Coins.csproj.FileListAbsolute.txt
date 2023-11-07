@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\bin\Debug\net6.0\07.Coins.exe
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\bin\Debug\net6.0\07.Coins.deps.json
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\bin\Debug\net6.0\07.Coins.runtimeconfig.json
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\bin\Debug\net6.0\07.Coins.dll
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\bin\Debug\net6.0\07.Coins.pdb
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.dll
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\refint\07.Coins.dll
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.pdb
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\07.Coins.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01.Numbers\07.Coins\obj\Debug\net6.0\ref\07.Coins.dll
